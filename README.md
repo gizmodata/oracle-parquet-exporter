@@ -4,7 +4,7 @@
 [![oracle-parquet-exporter-ci](https://github.com/gizmodata/oracle-parquet-exporter/actions/workflows/ci.yml/badge.svg)](https://github.com/gizmodata/oracle-parquet-exporter/actions/workflows/ci.yml)
 [![Supported Python Versions](https://img.shields.io/pypi/pyversions/oracle-parquet-exporter)](https://pypi.org/project/oracle-parquet-exporter/)
 [![PyPI version](https://badge.fury.io/py/oracle-parquet-exporter.svg)](https://badge.fury.io/py/oracle-parquet-exporter)
-[![PyPI Downloads](https://img.shields.io/pypi/dm/oracle-parquet-exporter.svg)](https://pypi.org/project/oracle-parquet-exporter/)
+[![PyPI Downloads](https://img.shields.io/pepy/dt/oracle-parquet-exporter.svg)](https://pypi.org/project/oracle-parquet-exporter/)
 
 The [GizmoData](https://gizmodata.com)™ Oracle Parquet Exporter utility is a command-line tool that allows you to export Oracle database table data to Parquet files. It can be used in conjunction with the [GizmoSQL](https://gizmodata.com/gizmosql) database engine to hyper-accelerate Oracle SQL analytical (OLAP) workloads at reduced cost.
 
